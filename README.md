@@ -1,2 +1,3 @@
-# meetup-scrape
-misc
+# Meetup Scraper for member numbers
+
+python3 scrape.py
