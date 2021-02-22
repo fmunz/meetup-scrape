@@ -1,4 +1,4 @@
-# Scrape Meetup.com number of member 
+# Scrape Meetup.com number of members 
 
 
 
